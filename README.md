@@ -1,1 +1,1 @@
-# my-cv
+https://zefirkamoriarty.github.io/my-cv/
