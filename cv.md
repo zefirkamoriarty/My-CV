@@ -53,6 +53,6 @@ function century(year) {
 **********************
 
 ##### Languages: #####
-English - level A1
+English - level A1 (in progress)
 
 
